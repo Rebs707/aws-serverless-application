@@ -1,0 +1,47 @@
+# AWS Serverless Application
+
+## Overview
+Serverless application architecture using AWS managed services.
+
+## Architecture
+
+Client  
+↓  
+API Gateway  
+↓  
+Lambda  
+↓  
+DynamoDB  
+↓  
+CloudWatch Logs
+
+## Technologies
+
+- AWS Lambda
+- API Gateway
+- DynamoDB
+- CloudWatch
+- Python
+
+## Features
+
+- Serverless API design
+- Lambda-based compute
+- DynamoDB integration
+- CloudWatch monitoring
+- Event-driven architecture concepts
+
+## Project Structure
+
+- lambda/ - Lambda function code
+- api-gateway/ - API configuration
+- dynamodb/ - Database configuration
+- iam/ - Permission documentation
+- diagrams/ - Architecture documentation
+- screenshots/ - Project evidence
+
+## Status
+
+Completed
+
+

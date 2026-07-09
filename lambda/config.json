@@ -1,0 +1,7 @@
+{
+  "environment_variables": {
+    "TABLE_NAME": "serverless-users"
+  },
+  "runtime": "python3.12",
+  "handler": "app.lambda_handler"
+}

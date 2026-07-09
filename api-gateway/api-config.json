@@ -1,0 +1,11 @@
+{
+  "name": "serverless-user-api",
+  "description": "API Gateway endpoint for Lambda and DynamoDB integration",
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/users",
+      "integration": "lambda"
+    }
+  ]
+}
