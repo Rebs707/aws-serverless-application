@@ -1,14 +1,14 @@
 AWS Serverless Application
 
-Project Overview
+**Project Overview**
 
 Serverless application architecture built using AWS managed services. This project demonstrates how to design scalable, event-driven applications without managing underlying infrastructure.
 
-Project Goal
+**Project Goal**
 
 Build a serverless application using AWS Lambda, API Gateway, and DynamoDB to demonstrate modern cloud-native application development.
 
-Architecture
+**Architecture**
 
 Client
   │
@@ -24,47 +24,65 @@ Amazon DynamoDB
   ▼
 CloudWatch Logs
 
-Technologies
+**Technologies**
 
 AWS Lambda
+
 API Gateway
+
 Amazon DynamoDB
+
 CloudWatch
+
 Python
 
-Features
+**Features**
 
 Serverless API design
+
 Lambda-based compute
+
 DynamoDB integration
+
 CloudWatch monitoring
+
 Event-driven architecture
 
-Project Structure
+**Project Structure**
 
 lambda/
+
 api-gateway/
+
 dynamodb/
+
 iam/
+
 diagrams/
+
 screenshots/
 
-Key Learnings
+**Key Learnings**
 
 Serverless application architecture
+
 AWS Lambda development
+
 API Gateway integration
+
 DynamoDB operations
+
 CloudWatch monitoring
+
 Event-driven application design
 
-Status
+**Status**
 
 ✅ Completed
 
-Future Improvements
+**Future Improvements**
 
-Implement Infrastructure as Code using Terraform
-Add CI/CD deployment pipeline
-Implement API authentication
-Add monitoring dashboards
+- Implement Infrastructure as Code using Terraform
+- Add CI/CD deployment pipeline
+- Implement API authentication
+- Add monitoring dashboards
